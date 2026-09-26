@@ -1,0 +1,2 @@
+-keep class com.ratio.ratapp.** { *; }
+-keep class com.google.firebase.** { *; }
